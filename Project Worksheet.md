@@ -73,7 +73,7 @@ www.thecocktaildb.com/api/json/v1/1/random.php
 
 ## Wireframes
 
-wireframe.cc/ezs6u0
+![Wireframe](./assets/Wireframe.png)
 
 
 #### MVP 
@@ -107,7 +107,7 @@ You are **responsible** for scheduling time with your squad to seek approval for
 
 ## Priority Matrix
 
-Include a full list of features that have been prioritized based on the `Time and Importance` Matrix.  Link this image in a similar manner to your wireframes
+![PriorityMatrix](./assets/PriorityMatrix.png)
 
 ## Timeframes
 
