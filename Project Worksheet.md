@@ -73,7 +73,7 @@ www.thecocktaildb.com/api/json/v1/1/random.php
 
 ## Wireframes
 
-Upload images of your wireframes to an image hosting site or add them to an assets folder in your repo and link them here with a description of each specific wireframe.
+wireframe.cc/ezs6u0
 
 
 #### MVP 
