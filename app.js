@@ -1,5 +1,7 @@
 // `www.thecocktaildb.com/api/json/v1/1/random.php`
 const cocktailDiv = document.querySelector('#data-container')
+// const button = document.querySelector('button')
+
 // console.log(cocktailDiv)
 
 const getCocktailList = async () => {
@@ -17,3 +19,9 @@ const getCocktailList = async () => {
 
 getCocktailList()
 
+
+
+
+
+// adding event listener for button to grab data from API
+// button.addEventListener('click', getCocktailList)
