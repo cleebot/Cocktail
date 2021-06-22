@@ -77,18 +77,17 @@ www.thecocktaildb.com/api/json/v1/1/random.php
 
 
 #### MVP 
-*These are examples only. Replace with your own MVP features.*
 
 - Render a cocktail image with ingredients on the page with a click of a button
 - use axios to pull data from the api
 - use flexbox to make webpage responsive to different screen sizes
 
 #### PostMVP  
-*These are examples only. Replace with your own Post-MVP features.*
 
--access second api database 
--make a pulldown taskbar that can search by ingredients
--create images on flexbox of different glass types to search by glass type.
+- access second api database 
+- let users be able to save favorite cocktails to local storage
+- create images on flexbox of different glass types to search by glass type.
+
 
 ## Project Schedule
 
@@ -99,10 +98,12 @@ You are **responsible** for scheduling time with your squad to seek approval for
 |  Day | Deliverable | Status
 |---|---| ---|
 |June 21| Prompt / Wireframes / Priority Matrix / Timeframes | Incomplete
-|June 22| Project Approval / Core Application Structure (HTML, CSS, etc.) | Incomplete
-|June 23| Pseudocode / actual code | Incomplete
-|June 24| Initial Clickable Model  | Incomplete
-|June 25| MVP | Incomplete
+|June 22| Project Approval / Work on basic html/CSS structure| Incomplete
+|June 23| Finish basic html/CSS Structure | Incomplete
+|June 24| Pseudocode / actual code  | Incomplete
+|June 25| Initial Clickable Model | Incomplete
+|June 26| MVP | Incomplete
+|June 27| Touch Up MVP | Incomplete
 |June 28| Presentations | Incomplete
 
 ## Priority Matrix
@@ -117,19 +118,26 @@ Time frames are also key in the development cycle.  You have limited time to cod
 
 | Component | Priority | Estimated Time | Time Invested | Actual Time |
 | --- | :---: |  :---: | :---: | :---: |
-| Adding Form | H | 3hrs| 3.5hrs | 3.5hrs |
-| Working with API | H | 3hrs| 2.5hrs | 2.5hrs |
-| Total | H | 6hrs| 5hrs | 5hrs |
+| Adding Button with event Listener | H | 3hrs|  |  |
+| Basic HTML  | L | 3hrs|  | |
+| CSS styling | L | 3hrs|  |  |
+| Adding background images | L | 3hrs|  | |
+| Appending DOM | H | 3hrs| |  |
+| Working with API | H | 3hrs|  |  |
+| Rendering data from API | H | 3hrs|  |  |
+| Styling Nav/Header | L | 1.5hrs|  |  |
+| Styling Button | H | 2hrs| |  |
+| Making website responsive with flexbox | H | 3hrs|  | |
+| Adding media query for mobile site responsiveness | H | 1.5hrs|  |  |
+| Finding unique font | L | 1hrs|  |  |
+
+
+| Total | H | 30hrs|  |  |
 
 ## Code Snippet
 
 Use this section to include a brief code snippet of functionality that you are proud of and a brief description.  
 
-```
-function reverse(string) {
-	// here is the code to reverse a string of text
-}
-```
 
 ## Change Log
  Use this section to document what changes were made and the reasoning behind those changes.  
