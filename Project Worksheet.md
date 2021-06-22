@@ -85,7 +85,7 @@ https://www.thecocktaildb.com/api.php
 
 #### PostMVP  
 
-- access second api database 
+- access second endpoint in api
 - let users be able to save favorite cocktails to local storage
 - create images on flexbox of different glass types to search by glass type.
 
