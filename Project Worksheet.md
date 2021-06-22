@@ -121,17 +121,18 @@ Time frames are also key in the development cycle.  You have limited time to cod
 | Adding Button with event Listener | H | 3hrs|  |  |
 | Basic HTML  | L | 3hrs|  | |
 | CSS styling | L | 3hrs|  |  |
-| Adding background images | H | 3hrs|  | |
+| Adding background images | L | 3hrs|  | |
 | Appending DOM | H | 3hrs| |  |
 | Working with API | H | 3hrs|  |  |
 | Rendering data from API | H | 3hrs|  |  |
 | Styling Nav/Header | L | 1.5hrs|  |  |
-|  | H | 3hrs| |  |
-|  | H | 3hrs|  | |
-|  | H | 3hrs|  |  |
-|  | H | 3hrs|  |  |
-|  | H | 3hrs|  |  |
-| Total | H | 6hrs| 5hrs | 5hrs |
+| Styling Button | H | 2hrs| |  |
+| Making website responsive with flexbox | H | 3hrs|  | |
+| Adding media query for mobile site responsiveness | H | 1.5hrs|  |  |
+| Finding unique font | L | .5hrs|  |  |
+| Finding unique font | L | .5hrs|  |  |
+
+| Total | H | 6hrs|  |  |
 
 ## Code Snippet
 
