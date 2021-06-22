@@ -85,7 +85,7 @@ www.thecocktaildb.com/api/json/v1/1/random.php
 #### PostMVP  
 
 - access second api database 
-- make a pulldown taskbar that can search by ingredients
+- let users be able to save favorite cocktails to local storage
 - create images on flexbox of different glass types to search by glass type.
 
 
