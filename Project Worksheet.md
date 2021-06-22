@@ -77,14 +77,12 @@ www.thecocktaildb.com/api/json/v1/1/random.php
 
 
 #### MVP 
-*These are examples only. Replace with your own MVP features.*
 
 - Render a cocktail image with ingredients on the page with a click of a button
 - use axios to pull data from the api
 - use flexbox to make webpage responsive to different screen sizes
 
 #### PostMVP  
-*These are examples only. Replace with your own Post-MVP features.*
 
 -access second api database 
 -make a pulldown taskbar that can search by ingredients
