@@ -84,6 +84,10 @@ www.thecocktaildb.com/api/json/v1/1/random.php
 
 #### PostMVP  
 
+- Render a cocktail image with ingredients on the page with a click of a button
+- use axios to pull data from the api
+- use flexbox to make webpage responsive to different screen sizes
+
 -access second api database 
 -make a pulldown taskbar that can search by ingredients
 -create images on flexbox of different glass types to search by glass type.
