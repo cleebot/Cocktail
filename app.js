@@ -1,4 +1,6 @@
 // `www.thecocktaildb.com/api/json/v1/1/random.php`
+const cocktailDiv = document.querySelector('#data-container')
+// console.log(cocktailDiv)
 
 const getCocktailList = async () => {
   try {
@@ -14,3 +16,4 @@ const getCocktailList = async () => {
 }
 
 getCocktailList()
+
