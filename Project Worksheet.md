@@ -10,9 +10,9 @@ A website that is useful for people who are ready to go for a night on the town 
 
 ## API and Data Sample
 
-www.thecocktaildb.com/api/json/v1/1/random.php
+https://www.thecocktaildb.com/api.php
 
-{
+```{
     "drinks": [
         {
             "idDrink": "178355",
@@ -69,6 +69,7 @@ www.thecocktaildb.com/api/json/v1/1/random.php
         }
     ]
 }
+```
 
 
 ## Wireframes
@@ -84,7 +85,7 @@ www.thecocktaildb.com/api/json/v1/1/random.php
 
 #### PostMVP  
 
-- access second api database 
+- access second endpoint in api
 - let users be able to save favorite cocktails to local storage
 - create images on flexbox of different glass types to search by glass type.
 
