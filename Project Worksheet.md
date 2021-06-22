@@ -10,9 +10,9 @@ A website that is useful for people who are ready to go for a night on the town 
 
 ## API and Data Sample
 
-www.thecocktaildb.com/api/json/v1/1/random.php
+https://www.thecocktaildb.com/api.php
 
-{
+```{
     "drinks": [
         {
             "idDrink": "178355",
@@ -68,7 +68,7 @@ www.thecocktaildb.com/api/json/v1/1/random.php
             "dateModified": null
         }
     ]
-}
+}```
 
 
 ## Wireframes
