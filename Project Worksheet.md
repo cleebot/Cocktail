@@ -129,10 +129,10 @@ Time frames are also key in the development cycle.  You have limited time to cod
 | Styling Button | H | 2hrs| |  |
 | Making website responsive with flexbox | H | 3hrs|  | |
 | Adding media query for mobile site responsiveness | H | 1.5hrs|  |  |
-| Finding unique font | L | .5hrs|  |  |
-| Finding unique font | L | .5hrs|  |  |
+| Finding unique font | L | 1hrs|  |  |
 
-| Total | H | 6hrs|  |  |
+
+| Total | H | 30hrs|  |  |
 
 ## Code Snippet
 
