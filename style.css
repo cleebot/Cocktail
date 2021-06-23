@@ -17,13 +17,20 @@ p{
   font-size: 16px;
 }
 
-.buttoncktl{
+/* .buttoncktl{ */
+button{
 transition-duration: 0.4s;
 padding: 7px 20px;
 border-radius: 8px;
 }
 
-.buttoncktl:hover{
+/* .buttoncktl:hover{ */
+button{
   background-color: red;
   color: white;
+}
+
+footer{
+  margin: 20px;
+  padding: 20px;
 }

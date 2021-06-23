@@ -1,6 +1,6 @@
 // `www.thecocktaildb.com/api/json/v1/1/random.php`
 const cocktailDiv = document.querySelector('#data-container')
-const button = document.querySelector('.buttoncktl')
+const button = document.querySelector('button')
 
 // console.log(cocktailDiv)
 
@@ -12,19 +12,24 @@ const getCocktailList = async () => {
     const cocktailList = response.data.drinks
     // console.log(cocktailList)
     for (let i = 0; i < cocktailList.length; i++) {
-      let cocktailName = document.createElement('h3')
+
+      let childDiv = document.createElement('div')
+      cocktailDiv.append(childDiv)
+
+      let cocktailName = document.createElement('h2')
       cocktailName.textContent = cocktailList[i].strDrink
-      cocktailDiv.append(cocktailName)
+      childDiv.append(cocktailName)
 
       let cocktailPic = document.createElement('img')
       cocktailPic.setAttribute('src', cocktailList[i].strDrinkThumb)
-      cocktailDiv.append(cocktailPic)
+      childDiv.append(cocktailPic)
 
       let cocktailRecipe = document.createElement('p')
       cocktailRecipe.textContent = cocktailList[i].strInstructions
-      cocktailDiv.append(cocktailRecipe)
+      childDiv.append(cocktailRecipe)
       
     }
+    
     // console.log(cocktailList[i].strDrink)
     return cocktailList
       
@@ -35,10 +40,7 @@ const getCocktailList = async () => {
   }
 }
 
-getCocktailList()
-
-
-
+// getCocktailList()
 
 
 // adding event listener for button to grab data from API
