@@ -33,3 +33,10 @@ footer{
   margin: 20px;
   padding: 20px;
 }
+
+img{
+ width: 30%;
+ background-color: white;
+border-radius: 8px;
+
+}
