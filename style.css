@@ -27,6 +27,7 @@ border-radius: 8px;
 .buttoncktl:hover{
   background-color: red;
   color: white;
+
 }
 
 footer{
@@ -38,5 +39,16 @@ img{
  width: 30%;
  background-color: white;
 border-radius: 8px;
+}
 
+@media screen and (max-width:600px) {
+  body,html{
+
+  }
+  .header{
+    font-size: 12px;
+  }
+  p{
+    font-size: 10px;
+  }
 }
