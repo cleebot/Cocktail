@@ -6,6 +6,7 @@
 body,html{
   background-image: url('https://assets.punchdrink.com/wp-content/uploads/2019/04/Article-Lazy-Bird-Chicago-Hoxton-Best-New-Bars-Spring-Summer-2019.jpg');
   background-size: cover;
+  background-attachment: fixed;
   height: 100%;
   text-align:center;
   color:azure;
@@ -17,15 +18,13 @@ p{
   font-size: 16px;
 }
 
-/* .buttoncktl{ */
-button{
+.buttoncktl{
 transition-duration: 0.4s;
 padding: 7px 20px;
 border-radius: 8px;
 }
 
-/* .buttoncktl:hover{ */
-button{
+.buttoncktl:hover{
   background-color: red;
   color: white;
 }
