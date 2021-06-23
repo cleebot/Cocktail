@@ -13,20 +13,18 @@ const getCocktailList = async () => {
     // console.log(cocktailList)
     for (let i = 0; i < cocktailList.length; i++) {
 
-      let childDiv = document.createElement('div')
-      cocktailDiv.append(childDiv)
 
       let cocktailName = document.createElement('h2')
       cocktailName.textContent = cocktailList[i].strDrink
-      childDiv.append(cocktailName)
+      cocktailDiv.append(cocktailName)
 
       let cocktailPic = document.createElement('img')
       cocktailPic.setAttribute('src', cocktailList[i].strDrinkThumb)
-      childDiv.append(cocktailPic)
+      cocktailDiv.append(cocktailPic)
 
       let cocktailRecipe = document.createElement('p')
       cocktailRecipe.textContent = cocktailList[i].strInstructions
-      childDiv.append(cocktailRecipe)
+      cocktailDiv.append(cocktailRecipe)
       
     }
     
