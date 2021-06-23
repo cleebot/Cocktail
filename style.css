@@ -46,8 +46,9 @@ border-radius: 8px;
 
 @media screen and (max-width:600px) {
   body,html{
-  background-image: url('https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestravelguide%2Ffiles%2F2015%2F10%2FForbes_TantalizingNightclubs_Hakkasan_MGMGrandHotelandCasino_CreditMGMResortsInternational.jpg');
+  background-image: url('https://th.bing.com/th/id/R442a500a45ef8990dabb7176d1b87fc5?rik=CCALQ9YdwA%2b%2frQ&riu=http%3a%2f%2fwww.bigtimedesignstudios.com%2fwp_btd3%2fwp-content%2fuploads%2f2016%2f03%2fGatecrasher-Vert_0017_IMG_9864.jpg.jpg&ehk=MO8LxrqhLsarXAlj4bER6D1X%2bKENsQxApLsy0tYcZv0%3d&risl=&pid=ImgRaw');
   background-size: cover;
+  height: 100%;
   background-position: fixed;
 }
   .header{
