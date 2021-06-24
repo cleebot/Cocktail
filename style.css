@@ -23,7 +23,10 @@ body,html{
 }
 
 .site-content{
-  flex: 1;
+  flex: 1 0 auto;
+  padding: var(--space) var(--space) 0;
+  width: 100%;
+  /* sticky footer from phillipwalton */
 }
 
 p{
@@ -45,9 +48,9 @@ border-radius: 8px;
 footer{
   margin: 20px;
   padding: 20px;
-  display:flex;
+  /* display:flex;
   min-height: 100vh;
-  flex-direction:column;
+  flex-direction:column; */
 }
 
 img{
