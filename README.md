@@ -79,7 +79,7 @@ https://www.thecocktaildb.com/api.php
 
 #### MVP 
 
-- Render a cocktail image with ingredients on the page with a click of a button
+- Render a cocktail image with instructions on the page with a click of a button
 - use axios to pull data from the api
 - use flexbox to make webpage responsive to different screen sizes
 
@@ -98,12 +98,12 @@ You are **responsible** for scheduling time with your squad to seek approval for
 
 |  Day | Deliverable | Status
 |---|---| ---|
-|June 21| Prompt / Wireframes / Priority Matrix / Timeframes | Incomplete
-|June 22| Project Approval / Work on basic html/CSS structure| Incomplete
-|June 23| Finish basic html/CSS Structure | Incomplete
-|June 24| Pseudocode / actual code  | Incomplete
-|June 25| Initial Clickable Model | Incomplete
-|June 26| MVP | Incomplete
+|June 21| Prompt / Wireframes / Priority Matrix / Timeframes | Complete
+|June 22| Project Approval / Work on basic html/CSS structure| Complete
+|June 23| Finish basic html/CSS Structure | Complete
+|June 24| Pseudocode / actual code  | Complete
+|June 25| Initial Clickable Model | Complete
+|June 26| MVP | Complete
 |June 27| Touch Up MVP | Incomplete
 |June 28| Presentations | Incomplete
 
@@ -129,8 +129,8 @@ Time frames are also key in the development cycle.  You have limited time to cod
 | Styling Nav/Header | L | 1.5hrs|  |  |
 | Styling Button | H | 2hrs| |  |
 | Making website responsive with flexbox | H | 3hrs|  | |
-| Adding media query for mobile site responsiveness | H | 1.5hrs|  |  |
-| Finding unique font | L | 1hrs|  |  |
+| Adding media query for mobile site responsiveness | H | 1.5hrs| 1.5 hrs |1.5 hrs  |
+| Finding unique font | L | 1hrs|.5 hrs  | .5 hrs |
 
 
 | Total | H | 30hrs|  |  |
