@@ -61,6 +61,13 @@ img{
 border-radius: 80%;
 }
 
+.bar{
+  text-align:right;
+  list-style-type:none;
+  margin:0;
+  padding:0;
+}
+
 @media screen and (max-width:600px) {
   body,html{
   background-image: linear-gradient(
@@ -79,5 +86,12 @@ border-radius: 80%;
   }
   footer{
     font-size: 12px;
+  }
+  
+  .bar{
+    text-align:right;
+    list-style-type:none;
+    margin:0;
+    padding:0;
   }
 }
