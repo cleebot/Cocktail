@@ -4,6 +4,8 @@ const button = document.querySelector('button')
 
 // console.log(cocktailDiv)
 
+// async function to call the API and appending to the DOM
+
 const getCocktailList = async () => {
   try {
     const getCocktailURL = 'https://www.thecocktaildb.com/api/json/v1/1/random.php'

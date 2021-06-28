@@ -34,6 +34,7 @@ p{
   font-size: 18px;
 }
 
+/* making button gradient from https://html-online.com/articles/gradient-background-buttons-css-html/ */
 .buttoncktl{
 transition-duration: 0.4s;
 padding: 7px 20px;
