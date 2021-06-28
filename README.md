@@ -104,7 +104,7 @@ You are **responsible** for scheduling time with your squad to seek approval for
 |June 24| Pseudocode / actual code  | Complete
 |June 25| Initial Clickable Model | Complete
 |June 26| MVP | Complete
-|June 27| Touch Up MVP | Incomplete
+|June 27| Touch Up MVP | Complete
 |June 28| Presentations | Incomplete
 
 ## Priority Matrix
@@ -119,26 +119,41 @@ Time frames are also key in the development cycle.  You have limited time to cod
 
 | Component | Priority | Estimated Time | Time Invested | Actual Time |
 | --- | :---: |  :---: | :---: | :---: |
-| Adding Button with event Listener | H | 3hrs|  |  |
-| Basic HTML  | L | 3hrs|  | |
-| CSS styling | L | 3hrs|  |  |
-| Adding background images | L | 3hrs|  | |
-| Appending DOM | H | 3hrs| |  |
-| Working with API | H | 3hrs|  |  |
-| Rendering data from API | H | 3hrs|  |  |
-| Styling Nav/Header | L | 1.5hrs|  |  |
-| Styling Button | H | 2hrs| |  |
-| Making website responsive with flexbox | H | 3hrs|  | |
-| Adding media query for mobile site responsiveness | H | 1.5hrs| 1.5 hrs |1.5 hrs  |
+| Adding Button with event Listener | H | 3hrs| 2 hrs | 2 hrs |
+| Basic HTML  | L | 3hrs| 2 hrs |2 hrs |
+| CSS styling | L | 3hrs| 3 hrs | 3 hrs |
+| CSS styling DOM image | H | 1 hr | 1 hr | 1 hr |
+| Adding & styling background images | L | 3hrs| 1.5 hrs |1.5 hrs |
+| Appending DOM | H | 3hrs| 6 hrs|6 hrs  |
+| Working with API | H | 3hrs| 5 hrs | 5 hrs |
+| Rendering data from API | H | 3hrs| 6 hrs |6 hrs  |
+| Styling Nav/Header | L | 1.5hrs| 1.5 hrs | 1.5 hrs |
+| Styling Button | H | 2hrs| 3 hrs | 3 hrs  |
+| Making website responsive with flexbox | H | 3hrs| 4 hrs | 4 hrs|
+| Adding media query for mobile site responsiveness | H | 1.5hrs| 3 hrs | 3 hrs  |
 | Finding unique font | L | 1hrs|.5 hrs  | .5 hrs |
 
 
-| Total | H | 30hrs|  |  |
+| Total | H | 31 hrs| 38.5 | 38.5 |
 
 ## Code Snippet
 
 Use this section to include a brief code snippet of functionality that you are proud of and a brief description.  
 
+Button functionality to pull data from API and also removes previous data when you click it again.
+
+```button.addEventListener('click', () => {
+removeCocktail()
+getCocktailList()
+})
+
+//removing previous cocktail
+function removeCocktail() {
+  while (cocktailDiv.lastChild) {
+  cocktailDiv.removeChild(cocktailDiv.lastChild)
+}
+}
+```
 
 ## Change Log
  Use this section to document what changes were made and the reasoning behind those changes.  

@@ -43,7 +43,7 @@ display:inline-block;
 /* #FFFC44 0%, #3AFF01 49%, #E002FF 100% */
 .buttoncktl:hover{
 color: white;
-background-image: linear-gradient(90 deg, #FFFC44 0%, #3AFF01 49%, #E002FF 100%);
+/* background-image: linear-gradient(90 deg, #FFFC44 0%, #3AFF01 49%, #E002FF 100%); */
 
 }
 
