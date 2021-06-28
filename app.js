@@ -10,9 +10,7 @@ const getCocktailList = async () => {
   try {
     const getCocktailURL = 'https://www.thecocktaildb.com/api/json/v1/1/random.php'
     const response = await axios.get(getCocktailURL)
-    // console.log(response.data.drinks)
     const cocktailList = response.data.drinks
-    // console.log(cocktailList)
     for (let i = 0; i < cocktailList.length; i++) {
 
 
@@ -30,7 +28,6 @@ const getCocktailList = async () => {
       
     }
     
-    // console.log(cocktailList[i].strDrink)
     return cocktailList
       
     
@@ -40,7 +37,6 @@ const getCocktailList = async () => {
   }
 }
 
-// getCocktailList()
 
 
 // adding event listener for button to grab data from API
