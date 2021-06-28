@@ -16,6 +16,8 @@ body,html{
   font-family: Poppins;
   text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 }
+
+/* sticky footer from https://philipwalton.github.io/solved-by-flexbox/demos/sticky-footer/ */
 .site{
   display: flex;
   min-height: 100vh;
