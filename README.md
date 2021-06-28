@@ -1,13 +1,13 @@
 # Project Overview
 
 
-https://cleebot.github.io/Cocktail/
-
 ## Project Name
 
 Night on the Town Cocktails
 
 ## Project Description
+
+https://cleebot.github.io/Cocktail/
 
 A website that is useful for people who are ready to go for a night on the town but need a little help deciding what cocktails to make before they go out.
 
