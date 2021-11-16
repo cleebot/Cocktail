@@ -108,7 +108,7 @@ You are **responsible** for scheduling time with your squad to seek approval for
 |June 25| Initial Clickable Model | Complete
 |June 26| MVP | Complete
 |June 27| Touch Up MVP | Complete
-|June 28| Presentations | Incomplete
+|June 28| Presentations | Complete
 
 ## Priority Matrix
 
